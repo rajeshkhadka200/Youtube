@@ -1,0 +1,12 @@
+Set the input feild value in HTML tag. HTML || CSS || JavaScript..
+In this video we wiil learn how we can set the input value to html tags with JS by clicking the button.
+
+Source code : https://github.com/rajeshkhadka123/Youtube/tree/main/Set%20Value
+
+1. Image toggling with JavaScript.
+https://www.youtube.com/watch?v=_M70HsUF7dQ&t=11s
+
+Get in Touch : 
+facebook : https://www.facebook.com/Rajeshkhadka112
+Instagram : https://www.instagram.com/rajeshkhadka100/
+Github : https://github.com/rajeshkhadka123
